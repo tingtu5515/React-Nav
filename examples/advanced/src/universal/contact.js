@@ -16,7 +16,7 @@ export default props =>
     <div>You can reach me via:</div>
     <ul>
       <li>
-        <a href="mailto:lassewang119@gmail.com">Email</a>
+        <a href="mailto:tingtulee@gmail.com">Email</a>
       </li>
     </ul>
   </RootDiv>;

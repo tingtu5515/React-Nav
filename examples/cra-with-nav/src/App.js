@@ -24,7 +24,7 @@ export default () => (
           </li>
           <li>
             <img src={reactSiteNavImage} height="30" alt="react site nav"/>
-            <a href="https://github.com/gungholasse/React-Nav">React Site Nav</a>
+            <a href="https://github.com/tingtu5515/React-Nav">React Site Nav</a>
           </li>
         </ul>
       </ContentGroup>

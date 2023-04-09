@@ -27,16 +27,16 @@ export default () =>
             <ul style={{listStyleType: 'none'}}>
               <li>
                 <a href="mailto:
-                lassewang119@gmail.com">Email</a>
+                tingtulee@gmail.com">Email</a>
               </li>
               <li>
-                <a href="https://github.com/gungholasse">Github</a>
+                <a href="https://github.com/tingtu5515">Github</a>
               </li>
               <li>
-                <a href="https://twitter.com/lassewang119">Twitter</a>
+                <a href="https://twitter.com/tingtulee">Twitter</a>
               </li>
               <li>
-                <a href="https://linkedin.com/in/lassewang119">Linkedin</a>
+                <a href="https://linkedin.com/in/tingtulee">Linkedin</a>
               </li>
             </ul>
           </ContentGroup>

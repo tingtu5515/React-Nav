@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gungholasse/react-site-menu.git"
+    "url": "https://github.com/tingtu5515/react-site-menu.git"
   },
   "keywords": [
     "react",
@@ -26,9 +26,9 @@
   "author": "Yus Ng",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gungholasse/react-site-menu"
+    "url": "https://github.com/tingtu5515/react-site-menu"
   },
-  "homepage": "https://github.com/gungholasse/react-site-menu",
+  "homepage": "https://github.com/tingtu5515/react-site-menu",
   "dependencies": {
     "@babel/plugin-transform-async-to-generator": "^7.0.0-beta.54",
     "@babel/polyfill": "^7.0.0-beta.54",

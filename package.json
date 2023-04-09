@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gungholasse/React-Nav.git"
+    "url": "git+https://github.com/tingtu5515/React-Nav.git"
   },
   "keywords": [
     "react",
@@ -25,9 +25,9 @@
   "author": "Lasse Wang",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gungholasse/React-Nav/issues"
+    "url": "https://github.com/tingtu5515/React-Nav/issues"
   },
-  "homepage": "https://github.com/gungholasse/React-Nav#readme",
+  "homepage": "https://github.com/tingtu5515/React-Nav#readme",
   "devDependencies": {
     "@babel/cli": "^7.0.0",
     "@babel/core": "^7.0.1",

@@ -7,16 +7,16 @@ export default props =>
     <div>You can reach me via:</div>
     <ul>
       <li>
-        <a href="mailto:lassewang119@gmail.com">email</a>
+        <a href="mailto:tingtulee@gmail.com">email</a>
       </li>
       <li>
-        <a href="https://github.com/gungholasse">github</a>
+        <a href="https://github.com/tingtu5515">github</a>
       </li>
       <li>
-        <a href="https://twitter.com/lassewang119">twitter</a>
+        <a href="https://twitter.com/tingtulee">twitter</a>
       </li>
       <li>
-        <a href="https://linkedin.com/in/lassewang119">linkedin</a>
+        <a href="https://linkedin.com/in/tingtulee">linkedin</a>
       </li>
     </ul>
   </div>;

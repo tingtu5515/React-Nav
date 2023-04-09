@@ -46,11 +46,11 @@ export default () => {
   return (
     <List>
       <ListItem>
-        <StyledLink href="https://github.com/gungholasse/React-Nav">
+        <StyledLink href="https://github.com/tingtu5515/React-Nav">
           <img src={smiley} width={24} height={24}/>
           <HeadingText>
             <Heading>STAR IT!</Heading>
-            <Text>github.com/gungholasse/React-Nav</Text>
+            <Text>github.com/tingtu5515/React-Nav</Text>
           </HeadingText>
         </StyledLink>
       </ListItem>
