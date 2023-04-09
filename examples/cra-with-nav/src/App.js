@@ -24,7 +24,7 @@ export default () => (
           </li>
           <li>
             <img src={reactSiteNavImage} height="30" alt="react site nav"/>
-            <a href="https://github.com/yusinto/react-site-nav">React Site Nav</a>
+            <a href="https://github.com/gungholasse/React-Nav">React Site Nav</a>
           </li>
         </ul>
       </ContentGroup>
@@ -41,10 +41,6 @@ export default () => (
           <li>
             <img src={communityImage} height="30" alt="community"/>
             <a href="https://reactjs.org/community/support.html">Community</a>
-          </li>
-          <li>
-            <img src={aboutMeImage} height="30" alt="blog"/>
-            <a href="http://www.reactjunkie.com/">Blog</a>
           </li>
         </ul>
       </ContentGroup>

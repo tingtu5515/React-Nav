@@ -38,7 +38,7 @@ export default () => {
   return (
     <List>
       <ListItem>
-        <StyledLink href="http://reactjunkie.com">
+        <StyledLink href="http://lassewang.com">
           <img src={aboutMeIcon} width={24} height={24}/>
           <Heading>ABOUT ME</Heading>
         </StyledLink>

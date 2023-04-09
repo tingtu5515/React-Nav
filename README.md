@@ -47,8 +47,8 @@ export default () =>
         </ContentGroup>
         <ContentGroup title="Contact" height="200">
           Free text followed by some links.<br/>
-          <a href="mailto:yusinto@gmail.com">Email</a><br/>
-          <a href="https://github.com/yusinto">Github</a>
+          <a href="mailto:lassewang119@gmail.com">Email</a><br/>
+          <a href="https://github.com/gungholasse">Github</a>
         </ContentGroup>
       </SiteNav>
       <Switch>
@@ -60,7 +60,7 @@ export default () =>
 
 ```
 
-Check the two [examples](https://github.com/yusinto/react-site-nav/tree/master/examples) for a fully working spa with
+Check the two [examples](https://github.com/gungholasse/React-Nav/tree/main/examples) for a fully working spa with
 react router, server side rendering and hot reload.
 
 ## Api
@@ -111,7 +111,7 @@ as a "flyout" on hover of the root items. It accepts the following props which a
 To render a root item as a link without a ContentGroup, you can do this:
 
 ```jsx
-  <ContentGroup title="Open Source" rootUrl="https://github.com/yusinto" />
+  <ContentGroup title="Open Source" rootUrl="https://github.com/gungholasse" />
 ```
 
 By not specifying width and height, SiteNav assumes you just want to render the root item
@@ -119,11 +119,9 @@ without a ContentGroup. Of course you can have a linked root item plus a Content
 a width or a height so SiteNav knows you want to render the group. 
 
 ```jsx
-  <ContentGroup title="Open Source" rootUrl="https://github.com/yusinto" height="200">
+  <ContentGroup title="Open Source" rootUrl="https://github.com/gungholasse" height="200">
     {
       /* You can render anything here! */
     }
   </ContentGroup>
 ```
-
-Check the demo in my [blog](https://reactjunkie.com/).

@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yusinto/react-site-nav.git"
+    "url": "git+https://github.com/gungholasse/React-Nav.git"
   },
   "keywords": [
     "react",
@@ -22,12 +22,12 @@
     "animated",
     "stripe"
   ],
-  "author": "Yusinto Ngadiman",
+  "author": "Lasse Wang",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/yusinto/react-site-nav/issues"
+    "url": "https://github.com/gungholasse/React-Nav/issues"
   },
-  "homepage": "https://github.com/yusinto/react-site-nav#readme",
+  "homepage": "https://github.com/gungholasse/React-Nav#readme",
   "devDependencies": {
     "@babel/cli": "^7.0.0",
     "@babel/core": "^7.0.1",

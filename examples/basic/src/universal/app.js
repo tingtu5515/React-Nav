@@ -26,16 +26,17 @@ export default () =>
           <ContentGroup title="Contact" width="200" height="150">
             <ul style={{listStyleType: 'none'}}>
               <li>
-                <a href="mailto:yusinto@gmail.com">Email</a>
+                <a href="mailto:
+                lassewang119@gmail.com">Email</a>
               </li>
               <li>
-                <a href="https://github.com/yusinto">Github</a>
+                <a href="https://github.com/gungholasse">Github</a>
               </li>
               <li>
-                <a href="https://twitter.com/yusinto">Twitter</a>
+                <a href="https://twitter.com/lassewang119">Twitter</a>
               </li>
               <li>
-                <a href="https://linkedin.com/in/yusinto">Tinkedin</a>
+                <a href="https://linkedin.com/in/lassewang119">Linkedin</a>
               </li>
             </ul>
           </ContentGroup>
